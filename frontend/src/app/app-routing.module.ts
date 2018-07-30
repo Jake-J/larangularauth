@@ -12,7 +12,7 @@ const appRoutes: Routes = [
   {path: 'profile', component: ProfileComponent},
   {path: 'request-password-reset', component: RequestResetComponent},
   {path: 'response-password-reset', component: ResponseResetComponent},
-]
+];
 
 @NgModule({
   imports: [
